@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.serendipiaTechnology.springbootsoapexample.SpringBootSoapExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.459 sec - in com.serendipiaTechnology.springbootsoapexample.SpringBootSoapExampleApplicationTests
